@@ -19,7 +19,7 @@ A professional temperature conversion web application built using HTML, CSS, and
 
 ## Live Demo
 
-Add your GitHub Pages link here.
+[Smart Temperature Converter](https://careyonline.github.io/thermocalc/)
 
 ## Author
 
